@@ -6,3 +6,5 @@ Created on Fri Jun  3 07:23:16 2022
 """
 
 A='Prueba1'
+
+mod1='Modificación1'
