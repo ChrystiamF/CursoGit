@@ -5,4 +5,6 @@ Created on Fri Jun  3 07:25:08 2022
 @author: USUARIO
 """
 
-C='Prueba3'
+from Prueba2 import pruebafunc
+
+pruebafunc()

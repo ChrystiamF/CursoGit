@@ -6,5 +6,5 @@ Created on Fri Jun  3 07:23:32 2022
 """
 
 def pruebafunc():
-    return("Esta es una prueba de la función en Prueba2.py")
+    return(print("Esta es una prueba de la función en Prueba2.py"))
 
