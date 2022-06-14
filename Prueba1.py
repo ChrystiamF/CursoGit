@@ -13,7 +13,7 @@ A='Prueba1'
 
 
 
-print("Ajuste en Master")
+print("Ajuste en Rama1")
 
 
 mod1='Modificación2-mod'
