@@ -16,5 +16,5 @@ A='Prueba1'
 
 
 
-mod1='Modificación1'
+mod1='Modificación2-mod'
 print(mod1)
