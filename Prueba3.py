@@ -18,3 +18,7 @@ pruebafunc()
 "Prueba línea nueva"
 
 "Prueba línea nueva en 3"
+
+from Prueba2 import funcion2
+
+funcion2()
